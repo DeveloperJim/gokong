@@ -1,4 +1,4 @@
-module github.com/kevholditch/gokong
+module github.com/DeveloperJim/gokong
 
 go 1.12
 
